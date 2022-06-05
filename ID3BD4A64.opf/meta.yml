@@ -1,0 +1,25 @@
+id: ID3BD4A64
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:15:03.149991'
+last_modified: '2022-06-05T20:15:03.149997'
+parser: null
+source_metadata:
+  title: Tra Gelong Tsultrim Dargye
+  language: bo
+  description: 'Texts by the famous Tra Gelong Tsultrim Dargye (khra dge slong tshul
+    khrims dar rgyas, 1866–1937) of Golok:'
+  volume:
+    fC074:
+      title: Words Spoken at the Moment of Passing
+      base_file: fC074.txt
+      order: 1
+      parent: Testament
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
